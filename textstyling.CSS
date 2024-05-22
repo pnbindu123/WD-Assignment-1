@@ -1,0 +1,10 @@
+<html>
+<head>
+<style>
+<h1>CSS</h1>
+h1{font-family:Arial;font-size :150%;font-weight:bold;font-style:italics;font stretch:1;color:red;}
+<p>Cascade Style Sheet</p>
+p{font-family:Times New Roman;font-size :100%;font-weight:less bold;font-style:normal;font stretch:1;color:purple;}
+</style>
+</body>
+</html>
